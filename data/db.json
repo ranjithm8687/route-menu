@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Practice Coding"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Learning"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "React"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "python"
+    }
+  ]
+}
